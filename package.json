@@ -17,7 +17,7 @@
   },
   "dependencies": {
     "@tinymce/tinymce-vue": "^1.0.8",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "fuse.js": "^3.2.1",
     "iview": "^2.14.3",
     "jquery": "^3.4.1",
